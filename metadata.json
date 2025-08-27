@@ -1,0 +1,5 @@
+{
+  "name": "Next.js Todo App con PostgreSQL",
+  "description": "Una aplicación de lista de tareas (To-Do list) construida con Next.js, TypeScript, Tailwind CSS, y Vercel Postgres. Permite a los usuarios agregar, ver, marcar como completadas y eliminar tareas. Está diseñada para ser desplegada fácilmente en Vercel.",
+  "requestFramePermissions": []
+}

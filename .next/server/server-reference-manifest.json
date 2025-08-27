@@ -1,0 +1,30 @@
+{
+  "node": {
+    "a939f805156ca141b3f2a6832068aa4087e410b8": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Frobertochaconalcantara%2FDesktop%2Fnext.js-todo-app-con-postgresql%2Flib%2Factions.ts%22%2C%5B%22createTodo%22%2C%22deleteTodo%22%2C%22toggleTodo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "bde497e875c950f6e1f6cd9443fa21e5e8984f28": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Frobertochaconalcantara%2FDesktop%2Fnext.js-todo-app-con-postgresql%2Flib%2Factions.ts%22%2C%5B%22createTodo%22%2C%22deleteTodo%22%2C%22toggleTodo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "f278dac3c03f08230d326437b70cc419efff987e": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Frobertochaconalcantara%2FDesktop%2Fnext.js-todo-app-con-postgresql%2Flib%2Factions.ts%22%2C%5B%22createTodo%22%2C%22deleteTodo%22%2C%22toggleTodo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "UJ20KgRsX/gmy3siqJ3Vwx4GOyUjK6cCv+J4CRcDFZA="
+}
